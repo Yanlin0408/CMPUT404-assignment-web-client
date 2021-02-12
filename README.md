@@ -11,7 +11,7 @@ Contributors / Licensing
 Yanlin Chen
 Collaboration: team members
 
-Dongheng
+dongheng
 qsong
 xutong2
 pyu
